@@ -5,5 +5,6 @@
 <h2>This is test for github</h2>
 <h2>Completed setup of jenkins</h2>
 <a href="about.jsp">About Page</a>
+<a href="services.jsp">Services</a>
 </body>
 </html>
