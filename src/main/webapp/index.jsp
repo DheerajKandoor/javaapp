@@ -6,5 +6,8 @@
 <h2>Completed setup of jenkins</h2>
 <a href="about.jsp">About Page</a>
 <a href="services.jsp">Services</a>
+<a href="test.jsp">Test</a>
+
+
 </body>
 </html>
